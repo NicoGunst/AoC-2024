@@ -10,8 +10,8 @@ Day 6 : Set
 Day 7 :   
 Day 8 :   
 Day 9 :  
-Day 10 :  
-Day 11 :  
-Day 12 :  
+Day 10 : Recursivity
+Day 11 : Recursivity and cache
+Day 12 : Depth-First Search + Part 2 side == corner
 Day 13 :  
 Day 14 :  
